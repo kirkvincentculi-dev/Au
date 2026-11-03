@@ -25,7 +25,7 @@ local CONFIG = {
     NAME = "VIN AI",
     VERSION = "1.0",
     UNLOCK_CODE = "5201314",
-    MODEL = "gemini-2.5-flash",
+    MODEL = "gemini-3.8-flash",
     API_URL = "https://generativelanguage.googleapis.com/v1beta/models/",
     LOGO = "rbxassetid://72694888911234"
 }
